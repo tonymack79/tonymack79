@@ -2,7 +2,6 @@
 
 ## Hi, I'm Tony 👋
 
----
 
 - 📫 How to reach me: tonymack79@gmail.com
 - 🔭 I’m currently working on Springboard Software Engineering Career Track
