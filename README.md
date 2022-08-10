@@ -4,7 +4,8 @@
 
 - 📫 How to reach me: tonymack79@gmail.com
 - 🔭 I’m currently working on Springboard Software Engineering Career Track
-- :iphone: Follow my tik tok to see what I'm doing @tonymack79
+- :iphone: Follow my tik tok to see what I'm doing [@tonymack79](https://www.tiktok.com/@tonymack79?lang=en)
+- Let's Connect [LinkedIn](https://www.linkedin.com/in/andrewmack79/)
 <!--
 **tonymack79/tonymack79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
